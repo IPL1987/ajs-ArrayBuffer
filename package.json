@@ -11,7 +11,6 @@
     "preshow:coverage": "npm run coverage",
     "show:coverage": "live-server coverage/lcov-report",
     "preshow:dist": "npm run build",
-    "type": "module",
     "show:dist": "live-server dist"
   },
   "devDependencies": {
@@ -32,6 +31,8 @@
   "dependencies": {
     "@babel/eslint-parser": "^7.16.5",
     "core-js": "^3.20.3",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.7.2",
     "save-dev": "^0.0.1-security"
   },
   "repository": {
