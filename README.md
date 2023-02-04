@@ -14,7 +14,4 @@
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/6ytq2t7vwwy1d6bt/branch/main?svg=true)](https://ci.appveyor.com/project/IPL1987/ajs-arraybuffer-math/branch/main)
-<<<<<<< HEAD
-# ajs-ArrayBuffer
-=======
->>>>>>> 71ab0b81297b044fed53fd8ffaf3cb1aae0570d2
+
